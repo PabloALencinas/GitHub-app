@@ -28,7 +28,7 @@ const LanguageList = ({ languagesUrl }) => {
         <div className="mb-4 mt-4 gap-4">
           <ul>
             {Object.entries(languages)
-              .slice(0, 3) // Take the first 6 entries
+              .slice(0, 3) // Take the first 3 entries
               .map(([language, bytes]) => (
                 <li key={language} className="text-white mb-2">
                   {language}: ({((bytes / totalBytes) * 100).toFixed(2)}%)
