@@ -25,19 +25,10 @@ To get started with the GitHub Search Simple Application, follow these steps:
 Open the project in your preferred development environment.
 Install any required dependencies (if applicable).
 Run the application locally.
-Detailed installation and usage instructions can be found in the project's documentation or README file.
 
-## Contribute
-
-We welcome contributions from the open-source community to enhance the functionality and user experience of this application. If you're interested in contributing, please check out our Contribution Guidelines to get started.
 
 ## License
 
 This project is licensed under the MIT License. For more information, please refer to the LICENSE file.
-
-## Contact
-If you have any questions, feedback, or suggestions, please feel free to reach out to us at your-email@example.com.
-
-# Enjoy exploring GitHub with GitHub Search Simple Application!
 
 
