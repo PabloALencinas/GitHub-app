@@ -26,10 +26,10 @@ function App() {
     try {
       if (activeTab === 'repository') {
         const data = await searchRepositories(searchTerm, language);
-        setRepositories(data.items); // Assuming your API returns an array of repositories
+        setRepositories(data.items); 
       } else if (activeTab === 'user') {
         const data = await searchUsers(searchTerm);
-        setUsers([data]); // Wrap the user data in an array
+        setUsers([data]); 
       }
     } catch (error) {
       console.log(error.message);
